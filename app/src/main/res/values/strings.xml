@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ad Reset Floating</string>
+    <string name="floating_service_running">Google Ads Reset Floating Bubble Active</string>
+    <string name="floating_service_desc">Tap the floating bubble to quickly reset or manage Google Ads ID</string>
+    <string name="floating_service_channel_name">Floating Ad Reset Service</string>
+    <string name="action_open_ads">Reset Google Ads</string>
+    <string name="action_stop_floating">Stop Floating</string>
+</resources>
