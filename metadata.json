@@ -1,6 +1,9 @@
-{
-  "name": "Ad Reset Floating",
-  "description": "Floating overlay tool to quickly reset or inspect Google Advertising ID and Google Ads privacy settings.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
+1  {
+2    "name": "Ad Reset Floating",
+3    "description": "Floating overlay tool...",
+4    "requestFramePermissions": [],
+5    "majorCapabilities": ["MAJOR_CAPABILIT..."],
+6    "workflows": {
+7      "android": "enabled"
+8    }
+9  }
